@@ -3,7 +3,6 @@
 	
 	
     <!-- get Matchday -->
-  //<![CDATA[
 
   function filterTable() {
     // Variables
@@ -19,5 +18,4 @@
       Matchday = cells[1] || null; // gets the 2nd `td` or nothing
       // if the filter is set to 'All', or this is the header row, or 2nd `td` text matches filter
       
-//]]>
 </script>
